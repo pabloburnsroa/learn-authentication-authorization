@@ -1,5 +1,1 @@
-# Authentication
-
-## Authentication vs Authorization
-
-....
+# learn-authentication-authorization
